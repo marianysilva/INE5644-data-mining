@@ -32,6 +32,10 @@ América Latina. Sua sede se encontra no Uruguai.
 - O Volume de empréstimos pessoais contratados por brasileiros teve um aumento de quase 20% em 2021
 - O Banco Central (BC) divulgou dados que mostram que os empréstimos feitos por instituições financeiras no Brasil chegaram a R$ 4,711 trilhões, em fevereiro de 2022, com alta de 0,8% em relação a janeiro de 2022.
 
+#### Setor de crédito no Brasil está em alerta máximo, com endividamento e inadimplência elevados
+- Segundo a Serasa Experian, no final de 2021, o nível de endividamento das empresas brasileiras atingiu um patamar recorde de 57,9% do total, o maior da série histórica iniciada em 2008. 
+- Em janeiro de 2023, o indicador de inadimplência da Serasa apontou para 70,09 milhões de brasileiros com dívidas em atraso, que somavam um montante de R$ 323,2 bilhões.
+
 ## 2. Desafio de negócio
 
 Cada vez que um cliente solicita um empréstimo a uma instituição financeira, diversos processos e controles internos são acionados, necessários para a avaliação da solicitação recebida. Desta forma, são analisadas manualmente muitas informações relacionadas com o perfil do cliente, destinos de crédito, atividade de trabalho, rendimentos, condições de habitação, entre outros dados demográficos. Além disso, a instituição utiliza os chamados bureaus de crédito para conhecer o histórico de crédito do cliente, a fim de definir o perfil de crédito do cliente. Em conjunto com outros registros próprios, informações de outros créditos, grau de conformidade e comportamento dos produtos contratados, a instituição aprova um valor a ser emprestado e um prazo para sua devolução ou rejeita a solicitação.
