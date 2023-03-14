@@ -1,6 +1,6 @@
 # INE5644-data-mining
 
-# Final Project | Bantotal
+## Final Project | Bantotal
 
 Please read the instructions for the challenge by selecting your preferred language below:
 
