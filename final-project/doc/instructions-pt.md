@@ -1,7 +1,7 @@
 [![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 [![](https://img.shields.io/discord/734849242153222221?logo=discord)](https://discord.gg/yJYmTGDWKH)
 
-# Desafio 01 | Bantotal
+# Startup Bino | Bantotal
 
 - [1. Sobre a Bantotal](#1-sobre-a-bantotal)
   - [1.1. Introdução](#11-introdução)
