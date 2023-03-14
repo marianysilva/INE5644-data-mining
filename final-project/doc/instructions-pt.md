@@ -24,11 +24,13 @@ Bantotal é a plataforma bancária líder na América Latina, que resolve as ope
 missão crítica das Instituições Financeiras de forma simples e precisa.
 
 A plataforma bancária Bantotal entrou no mercado em 1991 e tornou-se líder na
-América Latina. Sua sede se encontra no Uruguai, onde também estão localizados seu
-Departamento de Pesquisa e Desenvolvimento, seu Centro de Serviços de Manutenção
-global e seu Centro de Treinamento. Possui escritórios comerciais e de serviços em:
-Argentina, Chile, Colômbia, México, Peru e Uruguai. Seus Centros de
-Desenvolvimento de Software estão localizados no Peru e no Uruguai.
+América Latina. Sua sede se encontra no Uruguai.
+
+### 1.2 Contexto atual
+
+#### Pesquisa indica alta no crescimento de crédito em 2022
+- O Volume de empréstimos pessoais contratados por brasileiros teve um aumento de quase 20% em 2021
+- O Banco Central (BC) divulgou dados que mostram que os empréstimos feitos por instituições financeiras no Brasil chegaram a R$ 4,711 trilhões, em fevereiro de 2022, com alta de 0,8% em relação a janeiro de 2022.
 
 ## 2. Desafio de negócio
 
@@ -36,9 +38,11 @@ Cada vez que um cliente solicita um empréstimo a uma instituição financeira, 
 
 ## 3. Objetivo
 
-O desafio consiste em criar um modelo de inteligência artificial capaz de realizar uma análise de risco para predizer se um empréstimo a um cliente deve ser feito ou não. Para isso, espera-se a utilização de um modelo de Machine Learning capaz de realizar uma classificação. O modelo pode ser desenvolvido usando Jupyter Notebooks. O modelo deverá ser treinado com os conjuntos de dados disponibilizado nesse repositório, contendo dados de clientes de bancos, como dados demográficos, sobre suas contas e sobre o empréstimo que querem realizar.
+Realizar uma análise de risco para predizer se um empréstimo a um cliente deve ser feito ou não com objetivo de diminuir prejuizos financeiros devido inadimplencia. 
 
 ## 4. Tecnologias aplicadas
+
+Espera-se a utilização de um modelo de Machine Learning capaz de realizar uma classificação. O modelo pode ser desenvolvido usando Jupyter Notebooks. O modelo deverá ser treinado com os conjuntos de dados disponibilizado nesse repositório, contendo dados de clientes de bancos, como dados demográficos, sobre suas contas e sobre o empréstimo que querem realizar.
 
 O uso da linguagem [Python](https://www.python.org/), com [Jupyter Notebooks](https://jupyter.org/).
 
