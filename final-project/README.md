@@ -3,9 +3,7 @@
 
 # Final Project | Bantotal
 
-Please read the instructions for the challenge by selecting your preferred language below:
-
-- [Português](./doc/instructions-pt.md)
+- [Português - Instuções](./doc/instructions-pt.md)
 
 ## License
 
